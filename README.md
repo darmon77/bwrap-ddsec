@@ -1,6 +1,8 @@
 Bwrap-ddsec
 ==========
 Perfile de sandboxing sin privilegios para bubblewrap 
+![](ddsec.jpg)
+
 
 
 
