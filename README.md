@@ -1,7 +1,8 @@
 Bwrap-ddsec
 ==========
+<img src="joker-5817831_640.png" width="175"/>
+
 Perfile de sandboxing sin privilegios para bubblewrap 
-![](ddsec.jpg)
 
 
 
